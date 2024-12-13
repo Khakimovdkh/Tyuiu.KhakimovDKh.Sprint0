@@ -10,7 +10,7 @@ namespace Tyuiu.KhakimovDKh.Sprint0.Task3.V0.Test
         [TestMethod]
         public void CheckedValid()
         {
-            Assert.AreEqual(14, DataService.Sum(7, 7));
+            Assert.AreEqual(10, DataService.Sum(5, 5));
 
         }
     }
